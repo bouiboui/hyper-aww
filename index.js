@@ -1,5 +1,5 @@
 const urlArray = require("./image-array.js").urlArray;
-const background = '#5a5a5a';
+const background = '#222222';
 
 const getCss = (randomUrl) => {
   const css = `
@@ -12,7 +12,7 @@ const getCss = (randomUrl) => {
         width: 100%;
         height: 100%;
         z-index: 0;
-        opacity: 0.4;
+        opacity: 0.069;
         background-image: url('` + randomUrl + `');
         background-repeat: no-repeat;
         background-position: 50% 0;
