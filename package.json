@@ -1,19 +1,19 @@
 {
-  "name": "hyper-aww",
+  "name": "hyper-sebastian-bergmanns-portrait-as-a-background",
   "version": "1.1.0",
-  "description": "Cute animal gifs as your terminal background",
+  "description": "Sebastian Bergmann's portrait as your terminal background",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stokingerl/hyper-aww.git"
+    "url": "git+https://github.com/bouiboui/hyper-sebastian-bergmanns-portrait-as-a-background.git"
   },
   "keywords": [
     "hyper",
     "aww",
     "cute",
-    "animals"
+    "Sebastian Bergmann"
   ],
-  "author": "stokingerl <liamstokinger@gmail.com>",
-  "license": "MIT"
+  "author": "bouiboui <dev@cod3.net>",
+  "license": "Unlicense"
 }
